@@ -8,3 +8,8 @@ Add todo:
 - Data extraction method
 - Database design + UI
 - Dashboard UX
+
+Find possible APIs/Datasource extraction methods
+- Kaggle
+- DatumBox
+- Twitter API (Use Twpy)
